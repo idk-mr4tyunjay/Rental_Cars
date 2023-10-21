@@ -27,7 +27,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local development environment using the following command:
 
     ```
-    
+    https://github.com/idk-mr4tyunjay/Rental_Cars.git
     ```
 
 2. **Customize**: Modify the HTML and CSS files to match your branding and specific requirements. You can easily add more features and functionalities as needed.
