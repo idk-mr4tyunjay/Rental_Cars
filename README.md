@@ -8,8 +8,6 @@ Welcome to the Premium Rental Cars Website GitHub repository! This project is al
 
 - **Elegant Design**: The website boasts a modern and stylish design that reflects the luxury and sophistication of premium rental cars.
 
-- **Responsiveness**: The layout is fully responsive, ensuring it looks stunning and functions flawlessly on a variety of devices, from desktops to smartphones.
-
 - **User-Friendly Navigation**: The website offers easy-to-navigate menus and intuitive interface elements, making it effortless for users to browse cars, explore pricing, and complete bookings.
 
 - **Car Listings**: HTML templates and CSS styles are included for displaying car listings, complete with high-quality images, detailed specifications, and pricing information.
