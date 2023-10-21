@@ -1,5 +1,3 @@
-Certainly, here's a README for your "Premium Rental Cars" GitHub repository:
-
 # Premium Rental Cars Website
 
 Welcome to the Premium Rental Cars Website GitHub repository! This project is all about delivering an exquisite web experience for your premium car rental service. The repository includes HTML and CSS files that form the front-end of the website, providing a visually appealing and user-friendly interface for potential renters.
@@ -37,10 +35,6 @@ To get started with this project, follow these steps:
 ## Contributing
 
 We welcome contributions! If you'd like to enhance this project, feel free to fork the repository, make your improvements, and submit a pull request.
-
-## License
-
-This project is under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for your own purposes.
 
 ## Acknowledgments
 
